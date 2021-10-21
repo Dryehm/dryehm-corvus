@@ -9,4 +9,5 @@ UnitTypes.corvus.weapons.get(0).bullet.length = 1000;
 UnitTypes.corvus.weapons.get(0).reload = 1;
 UnitTypes.corvus.weapons.get(0).bullet.damage = 50000;
 UnitTypes.corvus.weapons.get(0).bullet.width = 150;
+UnitTypes.corvus.footRegion = Core.atlas.find("vela-outline")
 });
